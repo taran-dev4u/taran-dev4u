@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi There!! <img  src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="chan" width="30px" height="30px"> I'm Taran Mamidala!  </h1>
  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=open+sans&weight=600&duration=3000&pause=10&color=C769F7&multiline=true&width=435&height=50&lines=Final+year+student+at+VIT;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=open+sans&weight=600&duration=3000&pause=10&color=C769F7&multiline=true&width=435&height=50&lines=masters+student+at+UB;" alt="Typing SVG" /></a>
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
