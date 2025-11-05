@@ -42,9 +42,9 @@ Talking about me:
 
 <h2 align="left">🎯 my stats 'n' streaks 📈</h2>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarandev4u&theme=jolly&show_icons=true&locale=en&layout=compact" alt="Taran stats" bg_color=0d0d0d/> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taran-dev4u&theme=jolly&show_icons=true&locale=en&layout=compact" alt="Taran stats" bg_color=0d0d0d/> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarandev4u&theme=jolly&show_icons=true&locale=en" alt="Taran stats" bg_color=0d0d0d/> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarandev4u&theme=jolly" alt="Taran stats" bg_color=0d0d0d/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=taran-dev4u&theme=jolly&show_icons=true&locale=en" alt="Taran stats" bg_color=0d0d0d/> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taran-dev4u&theme=jolly" alt="Taran stats" bg_color=0d0d0d/>
 ## Contacts:
 
 <div>
