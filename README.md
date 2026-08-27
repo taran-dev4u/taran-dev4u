@@ -1,19 +1,27 @@
-<div align="center">
-
-# Hi there, I'm Taran 👋
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Software+Engineer+%26+AI%2FML+Researcher;Open+Source+Contributor+%40+NVIDIA+NeMo+%26+FlexMeasures;MS+Computer+Science+%40+University+at+Buffalo;Building+High-Throughput+Distributed+Systems;Deep+Learning+%26+Computer+Vision+Pipelines" alt="Typing SVG" />
-</a>
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Live%20Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://taran-dev4u.github.io/taran-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taran-dev4u)
-[![Publication DOI](https://img.shields.io/badge/Peer--Reviewed%20Publication-IJRS%20DOI-blue?style=for-the-badge&logo=doi&logoColor=white)](https://doi.org/10.1080/01431161.2023.2291000)
-[![GitHub Achievements](https://img.shields.io/badge/Achievements-Pull%20Shark%20%7C%20YOLO%20%7C%20Quickdraw-orange?style=for-the-badge&logo=github)](https://github.com/taran-dev4u?tab=achievements)
-
-</div>
+<table>
+  <tr>
+    <td width="60%" valign="middle">
+      <h1>Hi there, I'm Taran <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=2563EB&center=false&vCenter=true&width=500&lines=Software+Engineer+%26+AI%2FML+Researcher;Open+Source+Contributor+%40+NVIDIA+NeMo+%26+FlexMeasures;MS+in+Computer+Science+%40+University+at+Buffalo;Building+High-Throughput+Distributed+Systems;Deep+Learning+%26+Computer+Vision+Pipelines" alt="Typing SVG" />
+      </a>
+      <br/><br/>
+      <p>
+        🎓 <b>MS in Computer Science</b> at <b>University at Buffalo (UB)</b>.<br/>
+        ⚡ <b>Specialization:</b> Scalable distributed systems, cloud-native microservices, and AI/ML model deployment.<br/>
+        🌐 <b>Open Source:</b> Active contributor to <b>NVIDIA NeMo (1000+ ⭐)</b>, <b>FlexMeasures (206+ ⭐)</b>, <b>timely-beliefs</b>, and <b>AquaScope</b>.
+      </p>
+      <p>
+        <a href="https://taran-dev4u.github.io/taran-portfolio/"><img src="https://img.shields.io/badge/Live%20Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+        <a href="https://linkedin.com/in/taran-dev4u"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+        <a href="https://doi.org/10.1080/01431161.2023.2291000"><img src="https://img.shields.io/badge/IJRS%20Publication-DOI-blue?style=for-the-badge&logo=doi&logoColor=white" alt="DOI"/></a>
+      </p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="assets/coder.gif" width="100%" alt="Developer Coding GIF" style="border-radius: 12px;"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
