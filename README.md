@@ -1,18 +1,20 @@
-<h1 align="left">Hi there, I'm Taran <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<div align="center">
 
-<img align="right" alt="Coding GIF" width="380" src="https://raw.githubusercontent.com/taran-dev4u/taran-dev4u/main/assets/coder.gif" />
-
-### Software Engineer & AI/ML Researcher
+# Hi there, I'm Taran <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2563EB&center=false&vCenter=true&width=500&lines=Software+Engineer+%26+AI%2FML+Researcher;Open+Source+Contributor+%40+NVIDIA+NeMo+%26+FlexMeasures;MS+in+Computer+Science+%40+University+at+Buffalo;Building+High-Throughput+Distributed+Systems;Deep+Learning+%26+Computer+Vision+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Software+Engineer+%26+AI%2FML+Researcher;Open+Source+Contributor+%40+NVIDIA+NeMo+%26+FlexMeasures;MS+in+Computer+Science+%40+University+at+Buffalo;Building+High-Throughput+Distributed+Systems;Deep+Learning+%26+Computer+Vision+Pipelines" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-- 🎓 **MS in Computer Science** at **University at Buffalo (UB)**
-- ⚡ **Core Specialization:** Scalable distributed systems, cloud microservices, and AI/ML deployment
-- 🌐 **Open Source:** Active contributor to **[NVIDIA NeMo (1,000+ ⭐)](https://github.com/NVIDIA-NeMo/Automodel)**, **[FlexMeasures (206+ ⭐)](https://github.com/FlexMeasures/flexmeasures)**, **timely-beliefs**, and **AquaScope**
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="620" alt="Professional Developer Multi-Monitor Setup" style="border-radius: 12px;" />
+
+<br/><br/>
+
+🎓 **MS in Computer Science** at **University at Buffalo (UB)** &nbsp;|&nbsp;
+⚡ **Focus:** Distributed Systems, Cloud Architecture & AI/ML &nbsp;|&nbsp;
+🌐 **Open Source:** NVIDIA NeMo, FlexMeasures, timely-beliefs
 
 <br/>
 
@@ -21,7 +23,7 @@
 [![Publication DOI](https://img.shields.io/badge/IJRS%20Publication-DOI-blue?style=for-the-badge&logo=doi&logoColor=white)](https://doi.org/10.1080/01431161.2023.2291000)
 [![GitHub Achievements](https://img.shields.io/badge/Achievements-Pull%20Shark%20%7C%20YOLO%20%7C%20Quickdraw-orange?style=for-the-badge&logo=github)](https://github.com/taran-dev4u?tab=achievements)
 
-<br clear="right"/>
+</div>
 
 ---
 
