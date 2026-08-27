@@ -16,7 +16,7 @@
 
 🎓 **MS in Computer Science** at **University at Buffalo (UB)** &nbsp;|&nbsp;
 ⚡ **Focus:** Distributed Systems & AI/ML &nbsp;|&nbsp;
-🌐 **Open Source:** NVIDIA NeMo, FlexMeasures, timely-beliefs
+🌐 **Open Source:** NVIDIA NeMo, FlexMeasures, timely-beliefs, Django-CRM
 
 <br/>
 
@@ -43,32 +43,35 @@ I actively contribute core features, architectural refactors, and bug fixes to e
 | :--- | :--- | :--- | :--- |
 | **[`NVIDIA-NeMo/Automodel`](https://github.com/NVIDIA-NeMo/Automodel)** | **1,000+ ⭐** AI/ML | **[PR #3379](https://github.com/NVIDIA-NeMo/Automodel/pull/3379) (Merged)**<br/>**[PR #3700](https://github.com/NVIDIA-NeMo/Automodel/pull/3700) (In Review)** | VLM processor artifact serialization on LoRA merges + PEFT adapter key namespace isolation (`base_model.model.thinker...`). |
 | **[`FlexMeasures/flexmeasures`](https://github.com/FlexMeasures/flexmeasures)** | **206+ ⭐** Energy EMS | **[PR #2353](https://github.com/FlexMeasures/flexmeasures/pull/2353) (Merged)**<br/>**[PR #2443](https://github.com/FlexMeasures/flexmeasures/pull/2443) (In Review)** | Multi-tenant RBAC role filtering on Account REST APIs & UI + plugin loader working directory shadowing resolution. |
+| **[`MicroPyramid/django-crm`](https://github.com/MicroPyramid/django-crm)** | **1,000+ ⭐** Backend | **[Issue #636 Implementation](https://github.com/taran-dev4u/django-crm-lead-enrichment)** | High-throughput entity matching, Levenshtein fuzzy company clustering, E.164 phone normalization & record merge engine. |
 | **[`SeitaBV/timely-beliefs`](https://github.com/SeitaBV/timely-beliefs)** | Probabilistic Sensors | **[PR #245](https://github.com/SeitaBV/timely-beliefs/pull/245) (Merged)** | Enforced strict total ordering (`__lt__`) for `BeliefSource` to prevent NaN generation during Pandas MultiIndex alignment. |
 | **[`Rekin226/aquascope`](https://github.com/Rekin226/aquascope)** | Scientific Hydrology | **9 Upstream Merged PRs**<br/>**[PR #269](https://github.com/Rekin226/aquascope/pull/269) (In Review)** | Extreme Value Theory (EVT) flood frequency bounds, Mann-Kendall trend tests, CAMELS-BR collector & Streamlit dashboard. |
 
 ---
 
-### 🚀 Featured Engineering & Research Showcases
+### 🚀 Production & Self-Project Engineering Showcases
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 NVIDIA NeMo VLM & PEFT Engine</h3>
+      <h3 align="center">⚡ Real-Time Streaming Analytics</h3>
       <p align="center">
-        <a href="https://github.com/taran-dev4u/nemo-automodel-vlm-processor"><img src="https://img.shields.io/badge/NVIDIA%20NeMo-PR%20%233379%20Merged-green?logo=nvidia" alt="NeMo Badge"/></a>
-        <a href="https://github.com/taran-dev4u/nemo-automodel-vlm-processor"><img src="https://img.shields.io/badge/PyTorch-2.2%2B-ee4c2c?logo=pytorch" alt="PyTorch"/></a>
+        <a href="https://github.com/taran-dev4u/realtime-streaming-analytics-platform"><img src="https://img.shields.io/badge/Kafka-Streaming-black?logo=apachekafka" alt="Kafka"/></a>
+        <a href="https://github.com/taran-dev4u/realtime-streaming-analytics-platform"><img src="https://img.shields.io/badge/Spark-Streaming-E25A1C?logo=apachespark" alt="Spark"/></a>
+        <a href="https://taran-dev4u.github.io/taran-portfolio/#projects"><img src="https://img.shields.io/badge/Live%20Demo-Active-brightgreen" alt="Live Demo"/></a>
       </p>
-      <p>Production LoRA adapter merging and processor serialization for Vision-Language Models (Qwen2.5-VL, Gemma, Llama-Vision). Full test coverage with state dict key validation.</p>
-      <p>👉 <b><a href="https://github.com/taran-dev4u/nemo-automodel-vlm-processor">View Repository →</a></b></p>
+      <p>High-throughput telemetry ingestion (2,500+ msg/sec) using Apache Kafka, sub-second sliding window Spark Structured Streaming aggregations, and asynchronous FastAPI KPI services.</p>
+      <p>👉 <b><a href="https://github.com/taran-dev4u/realtime-streaming-analytics-platform">View Repository →</a></b></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🏢 Django-CRM Duplicate Detection</h3>
+      <h3 align="center">🤖 RAG Document Q&A Application</h3>
       <p align="center">
-        <a href="https://github.com/taran-dev4u/django-crm-lead-enrichment"><img src="https://img.shields.io/badge/Django--CRM-1000%2B%20%E2%AD%90-orange?logo=django" alt="Django CRM"/></a>
-        <a href="https://bottlecrm.io"><img src="https://img.shields.io/badge/Live%20Demo-App-brightgreen" alt="Live Demo"/></a>
+        <a href="https://github.com/taran-dev4u/rag-document-qa-application"><img src="https://img.shields.io/badge/LangChain-RAG-blue" alt="LangChain"/></a>
+        <a href="https://github.com/taran-dev4u/rag-document-qa-application"><img src="https://img.shields.io/badge/Qdrant-Vector%20Search-DC2626" alt="Qdrant"/></a>
+        <a href="https://taran-dev4u.github.io/taran-portfolio/#projects"><img src="https://img.shields.io/badge/Live%20Demo-Active-brightgreen" alt="Live Demo"/></a>
       </p>
-      <p>High-throughput entity matching, Levenshtein fuzzy company clustering, E.164 phone normalization, and non-destructive master record reconciliation for Django-CRM.</p>
-      <p>👉 <b><a href="https://github.com/taran-dev4u/django-crm-lead-enrichment">View Repository →</a></b></p>
+      <p>Production Retrieval-Augmented Generation application with overlapping semantic chunking, dense vector embeddings, vector similarity search, FastAPI, and Dockerized deployment.</p>
+      <p>👉 <b><a href="https://github.com/taran-dev4u/rag-document-qa-application">View Repository →</a></b></p>
     </td>
   </tr>
   <tr>
