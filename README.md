@@ -1,19 +1,21 @@
 <div align="center">
 
-# Hi there, I'm Taran <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Taran%20Mamidala&fontSize=42&fontAlignY=36&desc=Software%20Engineer%20%7C%20AI%2FML%20Researcher%20%7C%20Open%20Source&descFontSize=19&descAlignY=60" width="100%" alt="Header Banner" />
+
+<br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Software+Engineer+%26+AI%2FML+Researcher;Open+Source+Contributor+%40+NVIDIA+NeMo+%26+FlexMeasures;MS+in+Computer+Science+%40+University+at+Buffalo;Building+High-Throughput+Distributed+Systems;Deep+Learning+%26+Computer+Vision+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineer+%26+AI%2FML+Researcher;Open+Source+Contributor+%40+NVIDIA+NeMo+%26+FlexMeasures;MS+in+Computer+Science+%40+University+at+Buffalo;Building+High-Throughput+Distributed+Systems;Deep+Learning+%26+Computer+Vision+Pipelines" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="620" alt="Professional Developer Multi-Monitor Setup" style="border-radius: 12px;" />
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="540" alt="Aesthetic Developer Coding Animation" style="border-radius: 16px;" />
 
 <br/><br/>
 
 🎓 **MS in Computer Science** at **University at Buffalo (UB)** &nbsp;|&nbsp;
-⚡ **Focus:** Distributed Systems, Cloud Architecture & AI/ML &nbsp;|&nbsp;
+⚡ **Focus:** Distributed Systems & AI/ML &nbsp;|&nbsp;
 🌐 **Open Source:** NVIDIA NeMo, FlexMeasures, timely-beliefs
 
 <br/>
@@ -22,6 +24,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taran-dev4u)
 [![Publication DOI](https://img.shields.io/badge/IJRS%20Publication-DOI-blue?style=for-the-badge&logo=doi&logoColor=white)](https://doi.org/10.1080/01431161.2023.2291000)
 [![GitHub Achievements](https://img.shields.io/badge/Achievements-Pull%20Shark%20%7C%20YOLO%20%7C%20Quickdraw-orange?style=for-the-badge&logo=github)](https://github.com/taran-dev4u?tab=achievements)
+
+<br/><br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,ts,pytorch,docker,kubernetes,aws,postgres,redis,kafka,git,linux,spring,flask" alt="Skill Icons" />
+</a>
 
 </div>
 
@@ -84,21 +92,6 @@ I actively contribute core features, architectural refactors, and bug fixes to e
     </td>
   </tr>
 </table>
-
----
-
-### 💻 Technical Skills & Stack
-
-<div align="center">
-
-| Area | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages** | `Python`, `Java`, `C++`, `TypeScript`, `SQL`, `Bash`, `Go` |
-| **AI / ML & Data** | `PyTorch`, `Hugging Face`, `Transformers`, `LangChain`, `Kafka`, `Spark`, `SciPy`, `NumPy`, `Pandas` |
-| **Backend & Web** | `Django REST Framework`, `FastAPI`, `Spring Boot`, `Flask`, `PostgreSQL`, `Redis`, `Node.js` |
-| **Cloud & DevOps** | `AWS`, `Docker`, `Kubernetes`, `GitHub Actions CI/CD`, `Linux`, `Terraform`, `Prometheus`, `Grafana` |
-
-</div>
 
 ---
 
